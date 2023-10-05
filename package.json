@@ -1,6 +1,6 @@
 {
   "name": "react-native-responsive-stylesheet",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "React-native library for creating stylesheets that return different styles based on screen size",
   "main": "index.js",
   "scripts": {
@@ -27,14 +27,14 @@
   },
   "homepage": "https://github.com/RangerMauve/react-native-responsive-stylesheet#readme",
   "peerDependencies": {
-    "react-native": "^0.42.0"
+    "react-native": "^0.72.5"
   },
   "devDependencies": {
-    "eslint": "^3.18.0",
-    "eslint-plugin-node": "^4.2.2",
-    "tape": "^4.6.3"
+    "eslint": "^8.50.0",
+    "eslint-plugin-node": "^11.1.0",
+    "tape": "^5.7.0"
   },
   "dependencies": {
-    "mock-require": "^2.0.1"
+    "mock-require": "^3.0.3"
   }
 }
